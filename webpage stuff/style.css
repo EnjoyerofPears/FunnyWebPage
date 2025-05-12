@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(114, 237, 253);
+  }
+  
+  h1 {
+    color: rgb(255, 0, 255);
+    margin-left: 20px;
+  }
+  p {
+    color: rgb(66, 15, 15);
+    margin-left: 20px;
+  }
+  #FunnyJoke {
+    color: rgb(255, 0, 0);
+    margin-left: 20px;
+    font-family: "Comic-Sans MS", cursive;
+    font-size: 20px;
+    font-weight: bold;
+
+  }
+  #goodquote {
+    color: rgb(0, 38, 255);
+    margin-left: 20px;
+    font-family: "Times", italics;
+    font-size: 20px;
+    font-weight: bold;
+
+  }
